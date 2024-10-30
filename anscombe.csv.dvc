@@ -1,0 +1,5 @@
+outs:
+- md5: 4566c34ec923de33057d339177512a2b
+  size: 554
+  hash: md5
+  path: anscombe.csv
